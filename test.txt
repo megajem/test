@@ -1,6 +1,3 @@
-apples
-bananas
-milk
 chocolate
 carrots
 cheese
